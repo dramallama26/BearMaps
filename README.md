@@ -3,7 +3,7 @@
 Bear Maps is a web mapping application that finds the shortest route between two points in Berkeley. Features: turn-by-turn directions, Autocomplete, and location search.
 This is a project from UC Berkeley's [CS61B Data Structures](https://sp18.datastructur.es/materials/proj/proj3/proj3) course.
 
-I implemented the back end features: [**Rasterer**](https://github.com/dramallama26/BearMaps/blob/main/bearmaps/server/handler/impl/RasterAPIHandler.java), [**KDTree**](https://github.com/dramallama26/BearMaps/blob/main/bearmaps/utils/ps/KDTree.java), [**GraphBuildingHandler**](https://github.com/dramallama26/BearMaps/blob/main/bearmaps/AugmentedStreetMapGraph.java), and [**Router**](https://github.com/dramallama26/BearMaps/blob/main/bearmaps/Router.java).
+I implemented the back end features: [**Rasterer**](https://github.com/dramallama26/BearMaps/blob/main/bearmaps/server/handler/impl/RasterAPIHandler.java), [**KDTree**](https://github.com/dramallama26/BearMaps/blob/main/bearmaps/utils/ps/KDTree.java), [**AugmentedFeatures**](https://github.com/dramallama26/BearMaps/blob/main/bearmaps/AugmentedStreetMapGraph.java), and [**Router**](https://github.com/dramallama26/BearMaps/blob/main/bearmaps/Router.java).
 
 <img src="demo.gif">
 
